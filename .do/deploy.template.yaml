@@ -5,8 +5,8 @@ spec:
       image:
         registry_type: GHCR
         registry: ghcr.io
-        repository: cosmicraycast/hovertank-alpha
+        repository: cosmicraycastbot/hovertank
         tag: stable
-      http_port: 7778
+      http_port: 7777
       instance_count: 1
       instance_size_slug: apps-s-1vcpu-0.5gb
